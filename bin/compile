@@ -89,6 +89,7 @@ case "${STACK}" in
       libxshmfence1
       libxss1
       libxtst6
+      ffmpeg
     "
     ;;
   "heroku-24")
@@ -122,6 +123,7 @@ case "${STACK}" in
       libxshmfence1
       libxss1
       libxtst6
+      ffmepg
     "
     ;;
   *)
