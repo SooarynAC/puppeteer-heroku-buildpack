@@ -123,7 +123,7 @@ case "${STACK}" in
       libxshmfence1
       libxss1
       libxtst6
-      ffmepg
+      ffmpeg
     "
     ;;
   *)
